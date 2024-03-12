@@ -43,7 +43,7 @@
                 <td>{{$d['unique_clicks']}}</td>
                 <td>{{$d['leads']}}</td>
                 <td>{{$d['conversion']}}</td>
-                <td>{{$d['roi']}}</td>
+                <td>{{$d['roi']}}%</td>
             </tr>
             @endforeach
             </tbody>
